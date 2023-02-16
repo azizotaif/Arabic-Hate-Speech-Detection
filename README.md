@@ -1,1 +1,1 @@
-# Arabic-Hate-Speech-Detection
+# Arabic Hate Speech Detection
