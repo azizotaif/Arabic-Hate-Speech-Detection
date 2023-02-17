@@ -13,7 +13,7 @@ The model is trained on a combination of 5 datasets:
 ## Trained Model
 [Download Trained Model](https://drive.google.com/file/d/1bf67bMLujiWfeAFFaL1lCpxIfvw6Odw3/view?usp=sharing)
 
-## Performance
+## Evaluation Metrics
 
 | Accuracy | Precision | Recall | Specificity |
 |:--------:|:---------:|:------:|:-----------:|
