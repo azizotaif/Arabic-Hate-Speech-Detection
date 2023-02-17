@@ -13,6 +13,12 @@ The model is trained on a combination of 5 datasets:
 ## Trained Model
 [Download Trained Model](https://drive.google.com/file/d/1bf67bMLujiWfeAFFaL1lCpxIfvw6Odw3/view?usp=sharing)
 
+## Performance
+
+| Accuracy | Precision | Recall | Specificity |
+|:--------:|:---------:|:------:|:-----------:|
+| 92.3%    | 93.3%     |90.0%   |94.0%        |
+
 ## Code
 Preprocessing, training, evaluation, and inference code and details are provided in the notebook (Arabic Hate Speech Detection.ipynb)
 
